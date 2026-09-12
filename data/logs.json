@@ -1,5 +1,14 @@
 [
   {
+    "id": "mtyhmf5pbweq",
+    "timestamp": "2026-09-12T14:35:47.389Z",
+    "type": "error",
+    "errorId": "ERR-MTYHMEH8-29ND",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mtyhmdhrkp2o",
     "timestamp": "2026-09-12T14:35:45.231Z",
     "type": "error",
