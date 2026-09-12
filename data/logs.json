@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "mtyd5jhtew86",
+    "timestamp": "2026-09-12T12:30:41.393Z",
+    "type": "error",
+    "errorId": "ERR-MTYD5IMT-3ARB",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  }
+]
