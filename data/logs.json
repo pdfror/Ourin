@@ -1,5 +1,13 @@
 [
   {
+    "id": "mtygt3174ge4",
+    "timestamp": "2026-09-12T14:12:58.651Z",
+    "type": "auth",
+    "action": "login",
+    "username": "free_b918fb",
+    "userId": "ba65422961ff"
+  },
+  {
     "id": "mtygsbvbpcuv",
     "timestamp": "2026-09-12T14:12:23.447Z",
     "type": "account",
