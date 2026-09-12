@@ -72,5 +72,19 @@
     "createdByUsername": "@tw1ssse",
     "createdByName": "𝗑𝗏𝖺𝗇𝖾𝗌𝖼𝗍 𝗅𝗒𝗈𝗋𝖺 𝖿2𝗍 𝐌𝚲𖥕𝐔 ん ( PKL )",
     "source": "telegram"
+  },
+  {
+    "id": "2c8fed7d457c",
+    "username": "alby",
+    "passwordHash": "$2a$10$.hi5tvFmZAnFLMrQ3uLPEermUn/gDCuCLuIuC3fknsYm.J/3ndArO",
+    "role": "RESELLER",
+    "status": "active",
+    "telegramId": "6683367384",
+    "expiredAt": "2026-10-12T16:49:21.976Z",
+    "createdAt": "2026-09-12T16:49:21.979Z",
+    "createdBy": "5967070544",
+    "createdByUsername": "@tw1ssse",
+    "createdByName": "𝗑𝗏𝖺𝗇𝖾𝗌𝖼𝗍 𝗅𝗒𝗈𝗋𝖺 𝖿2𝗍 𝐌𝚲𖥕𝐔 ん ( PKL )",
+    "source": "telegram"
   }
 ]
