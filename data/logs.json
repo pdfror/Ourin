@@ -1,5 +1,14 @@
 [
   {
+    "id": "mtyt3ctdcsv6",
+    "timestamp": "2026-09-12T19:56:53.281Z",
+    "type": "error",
+    "errorId": "ERR-MTYT3CM5-K5NE",
+    "route": "GET /api/whatsapp/global-active",
+    "message": "Global sender access denied",
+    "userId": "ba65422961ff"
+  },
+  {
     "id": "mtyo2ftjh33k",
     "timestamp": "2026-09-12T17:36:12.439Z",
     "type": "error",
