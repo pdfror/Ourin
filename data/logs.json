@@ -1,5 +1,14 @@
 [
   {
+    "id": "mtzsriap5dn4",
+    "timestamp": "2026-09-13T12:35:26.689Z",
+    "type": "error",
+    "errorId": "ERR-MTZSRGNK-BNC8",
+    "route": "POST /api/whatsapp/confirm",
+    "message": "Pairing gagal, sesi dihapus (kemungkinan logout/banned)",
+    "userId": "f45d5a436355"
+  },
+  {
     "id": "mtzsrh524t4h",
     "timestamp": "2026-09-13T12:35:25.190Z",
     "type": "error",
