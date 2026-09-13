@@ -1,5 +1,14 @@
 [
   {
+    "id": "mtzb214jfh1s",
+    "timestamp": "2026-09-13T04:19:44.563Z",
+    "type": "error",
+    "errorId": "ERR-MTZB20PH-XW7H",
+    "route": "GET /api/whatsapp/global-active",
+    "message": "Global sender access denied",
+    "userId": "24cfb4936df7"
+  },
+  {
     "id": "mtzb0yj5ibtc",
     "timestamp": "2026-09-13T04:18:54.545Z",
     "type": "auth",
