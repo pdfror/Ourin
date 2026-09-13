@@ -1,5 +1,14 @@
 [
   {
+    "id": "mtz5skdqb2yb",
+    "timestamp": "2026-09-13T01:52:24.878Z",
+    "type": "error",
+    "errorId": "ERR-MTZ5SJPD-IHT2",
+    "route": "POST /api/auth/login",
+    "message": "User not found",
+    "userId": null
+  },
+  {
     "id": "mtz5s6u7i0or",
     "timestamp": "2026-09-13T01:52:07.327Z",
     "type": "error",
