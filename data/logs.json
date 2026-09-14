@@ -1,5 +1,14 @@
 [
   {
+    "id": "mu19n4ns8lv6",
+    "timestamp": "2026-09-14T13:15:42.040Z",
+    "type": "error",
+    "errorId": "ERR-MU19N4FL-FGOV",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mu19l36nedqk",
     "timestamp": "2026-09-14T13:14:06.815Z",
     "type": "account",
