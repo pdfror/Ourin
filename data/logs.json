@@ -1,5 +1,13 @@
 [
   {
+    "id": "mu19ngbmbng0",
+    "timestamp": "2026-09-14T13:15:57.154Z",
+    "type": "auth",
+    "action": "login",
+    "username": "lyora",
+    "userId": "138408865a1c"
+  },
+  {
     "id": "mu19n4ns8lv6",
     "timestamp": "2026-09-14T13:15:42.040Z",
     "type": "error",
