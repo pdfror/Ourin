@@ -1,5 +1,15 @@
 [
   {
+    "id": "mu1a4q7chbi0",
+    "timestamp": "2026-09-14T13:29:23.112Z",
+    "type": "xmessage",
+    "action": "Channel Lock",
+    "target": "https://whatsapp.com/channel/0029Va9HVyA89inhiQ4zcV16",
+    "userId": "138408865a1c",
+    "success": false,
+    "error": "Unexpected token '\u0004', \"\u0004�\u00011203631\"... is not valid JSON"
+  },
+  {
     "id": "mu1a1243fl7o",
     "timestamp": "2026-09-14T13:26:31.923Z",
     "type": "xmessage",
